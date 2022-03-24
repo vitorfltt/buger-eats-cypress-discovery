@@ -1,0 +1,49 @@
+{
+  "signup": {
+    "name": "Filetto",
+    "cpf": "00000014141",
+    "email": "filetto@hotmail.com",
+    "whatsapp": "11999999999",
+    "address": {
+      "postalcode": "17012205",
+      "street": "Rua Henrique Savi",
+      "number": "1444",
+      "details": "ap 803",
+      "district": "Vila Nova Cidade Universitária",
+      "city": "Bauru/SP"
+    },
+    "cnh": "cnh-digital.jpg.jpg"
+  },
+
+  "cpf_inv": {
+    "name": "João Lucas",
+    "cpf": "x00000141AA",
+    "email": "joao@hotmail.com",
+    "whatsapp": "11999999999",
+    "address": {
+      "postalcode": "04534011",
+      "street": "Rua Joaquim Floriano",
+      "number": "1000",
+      "details": "Ap 142",
+      "district": "Itaim Bibi",
+      "city": "São Paulo/SP"
+    },
+    "cnh": "cnh-digital.jpg.jpg"
+  },
+
+  "email_inv": {
+    "name": "Filetto",
+    "cpf": "00000014141",
+    "email": "filetto.hotmail.com",
+    "whatsapp": "11999999999",
+    "address": {
+      "postalcode": "17012205",
+      "street": "Rua Henrique Savi",
+      "number": "1444",
+      "details": "ap 803",
+      "district": "Vila Nova Cidade Universitária",
+      "city": "Bauru/SP"
+    },
+    "cnh": "cnh-digital.jpg.jpg"
+  }
+}
